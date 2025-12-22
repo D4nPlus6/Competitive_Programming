@@ -1,6 +1,7 @@
-N = int(input("Place in line: "))
-C = int(input("Number of train cars: "))
-P = int(input("Number of people a single car holds: "))
+# CCC '25 J1 - Roller Coaster Ride
+N = int(input())
+C = int(input())
+P = int(input())
 
 if C*P >= N:
     print('yes')

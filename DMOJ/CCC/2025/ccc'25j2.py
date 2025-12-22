@@ -1,5 +1,6 @@
-D = int(input("Number of starting donuts: "))
-E = int(input("Number of events: "))
+# CCC '25 J2 - Donut Shop
+D = int(input())
+E = int(input())
 events = [input() for i in range(E*2)]
 
 pointers = ['+','-']

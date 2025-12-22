@@ -1,3 +1,4 @@
+# CCC '25 J3 - Product Codes
 N = int(input())
 productCodes = [input() for _ in range(N)]
 
