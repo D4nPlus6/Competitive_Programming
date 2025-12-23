@@ -12,6 +12,6 @@ Joined Olympiads School (teacher: [bruce](https://dmoj.ca/user/bruce)) - Sep 14,
 
 -----------------------------
 ## The Counter of Shame
-1 | Problem(s) Unfinished
+Problem(s) Unfinished: 1
 
-1 | Problem(s) not Understood
+Problem(s) not Understood: 1
