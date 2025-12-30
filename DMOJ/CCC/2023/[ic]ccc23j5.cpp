@@ -37,7 +37,7 @@ int main() {
 
         int res = 0;
         while (!q.empty()) {
-            int row = q.front()[0], column = q.front()[1], ind = q.front()[2], dir = q.front()[3], turned = q.front()[4]; q.pop();
+            int cr = q.front()[0], cc = q.front()[1], ind = q.front()[2], dir = q.front()[3], turned = q.front()[4]; q.pop();
             
             
         }
