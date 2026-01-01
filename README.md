@@ -15,3 +15,5 @@
 [(DMOJ)](https://dmoj.ca) Started coding in C++ - Dec 10, 2025
 
 [(DMOJ)](https://dmoj.ca) Solved first 7p problem - Sept 21, 2025
+
+[(DMOJ)](https://dmoj.ca) Joined DMOJ! (old acc: [user:D4nPlus6]) - Aug/Sept, 2025
