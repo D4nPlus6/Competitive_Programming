@@ -18,6 +18,7 @@ typedef vector<ll> vl;
 typedef vector<pi> vii;
 typedef vector<pl> vll;
 typedef vector<pii> viii;
+typedef vector<bool> vb;
 #define endl '\n'
 #define FILL(a, b) memset(a, b, sizeof(a))
 #define ALL(x) x.begin(), x.end()
