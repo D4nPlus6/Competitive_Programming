@@ -7,12 +7,12 @@ char alpha[26] = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M
 #pragma GCC target("avx,avx2,fma")
 
 typedef long long ll;
-typedef pair <int, int> pi;
+typedef pair<int, int> pi;
 typedef pair<pi, int> pii;
-typedef pair <ll, int> pli;
+typedef pair<ll, int> pli;
 typedef pair<ll, ll> pl;
-typedef pair <ll,pl> pll;
-typedef pair <string, int> psi;
+typedef pair<ll,pl> pll;
+typedef pair<string, int> psi;
 typedef vector<int> vi;
 typedef vector<ll> vl;
 typedef vector<pi> vii;
