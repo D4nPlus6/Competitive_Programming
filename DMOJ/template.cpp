@@ -19,6 +19,8 @@ typedef vector<pi> vii;
 typedef vector<pl> vll;
 typedef vector<pii> viii;
 typedef vector<bool> vb;
+typedef priority_queue<int, vi> ipq;
+typedef priority_queue<int, vi, greater<int>> ripq;
 #define endl '\n'
 #define FILL(a, b) memset(a, b, sizeof(a))
 #define ALL(x) x.begin(), x.end()
