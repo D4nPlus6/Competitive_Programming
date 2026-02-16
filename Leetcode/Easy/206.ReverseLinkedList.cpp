@@ -1,3 +1,5 @@
+//206. Reverse Linked List
+
 struct ListNode {
     int val;
     ListNode *next;
@@ -9,15 +11,15 @@ struct ListNode {
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        ListNode* node = nullptr;
+        ListNode* prev = nullptr;
         
         while (head != nullptr) {
             ListNode* tmp = head->next;
-            head->next = node;
-            node = head;
+            head->next = prev;
+            prev = head;
             head = tmp;
         }
 
-        return node;
+        return prev;
     }
 };
