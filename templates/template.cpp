@@ -7,27 +7,40 @@ char alpha[26] = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M
 #pragma GCC target("avx,avx2,fma")
 
 typedef long long ll;
-typedef pair <int, int> pi;
+typedef pair<int, int> pi;
+typedef tuple<int ,int, int> ti;
 typedef pair<pi, int> pii;
-typedef pair <ll, int> pli;
+typedef pair<ll, int> pli;
 typedef pair<ll, ll> pl;
-typedef pair <ll,pl> pll;
-typedef pair <string, int> psi;
+typedef tuple<ll,ll,ll> tl;
+typedef pair<ll,pl> pll;
+typedef pair<string, int> psi;
 typedef vector<int> vi;
+typedef set<int> si;
 typedef vector<ll> vl;
 typedef vector<pi> vii;
+typedef vector<ti> vti;
 typedef vector<pl> vll;
+typedef vector<tl> vtl;
 typedef vector<pii> viii;
-#define endl '\n';
+typedef vector<bool> vb;
+typedef priority_queue<int, vi> ipq;
+typedef priority_queue<int, vi, greater<int>> ripq;
+#define endl '\n'
 #define FILL(a, b) memset(a, b, sizeof(a))
 #define ALL(x) x.begin(), x.end()
-#define LOOP(n) (int i = 0; i < n; i++)
+#define ILOOP(n) for (int i = 0; i < n; i++)
+#define PRIMLOOP(N) for (int n = 0; n < N; n++)
+#define SECLOOP(M) for (int m = 0; m < M; m++)
+#define RLOOP(n) for (int i = n; i >= 0; i--)
+#define CLOOP(s) for (char c: s)
 #define pb push_back
+#define FOUNDANS(res) {cout << res << endl; return 0;}
 
-const int MM = 1e5+5;
-const int INF = 0x3F3F3F3F;
-const ll INFL = 0x3F3F3F3F3F3F3F3FLL;
-const int MOD = 1e9 + 7;
+constexpr int MM = 1e5+5;
+constexpr int INF = 0x3F3F3F3F;
+constexpr ll INFL = 0x3F3F3F3F3F3F3F3FLL;
+constexpr int MOD = 1e9 + 7;
 
 
 

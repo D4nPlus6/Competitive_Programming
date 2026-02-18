@@ -8,16 +8,20 @@ char alpha[26] = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M
 
 typedef long long ll;
 typedef pair<int, int> pi;
+typedef tuple<int ,int, int> ti;
 typedef pair<pi, int> pii;
 typedef pair<ll, int> pli;
 typedef pair<ll, ll> pl;
+typedef tuple<ll,ll,ll> tl;
 typedef pair<ll,pl> pll;
 typedef pair<string, int> psi;
 typedef vector<int> vi;
 typedef set<int> si;
 typedef vector<ll> vl;
 typedef vector<pi> vii;
+typedef vector<ti> vti;
 typedef vector<pl> vll;
+typedef vector<tl> vtl;
 typedef vector<pii> viii;
 typedef vector<bool> vb;
 typedef priority_queue<int, vi> ipq;
