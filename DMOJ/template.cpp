@@ -29,10 +29,11 @@ typedef priority_queue<int, vi, greater<int>> ripq;
 #define endl '\n'
 #define FILL(a, b) memset(a, b, sizeof(a))
 #define ALL(x) x.begin(), x.end()
-#define ILOOP(n) for (int i = 0; i < n; i++)
-#define PRIMLOOP(N) for (int n = 0; n < N; n++)
-#define SECLOOP(M) for (int m = 0; m < M; m++)
+#define LOOP(n) for (int _ = 0; _ < n; _++)
+#define PRIMLOOP(N) for (int i = 0; i < N; i++)
+#define SECLOOP(M) for (int j = 0; j < M; j++)
 #define RLOOP(n) for (int i = n; i >= 0; i--)
+#define ILOOP(arr) for (int &i: arr)
 #define CLOOP(s) for (char c: s)
 #define pb push_back
 #define FOUNDANS(res) {cout << res << endl; return 0;}
