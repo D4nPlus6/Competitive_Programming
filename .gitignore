@@ -2,5 +2,5 @@
 .idea
 .supaSecret
 ACSL
-.mp4
-.mkv
+*.mp4
+*.mkv
