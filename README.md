@@ -5,6 +5,9 @@
 [[My Rating]](https://clist.by/coder/DanPlus6/) [[danplus6 on DMOJ]](https://dmoj.ca/user/danplus6) [[DanPlus6 on Leetcode]](https://leetcode.com/u/DanPlus6/)
 
 ## Coding Timeline
+**1000/1000** on USACO Bronze, promoted to silver! - Feb 23, 2026
+
+Attended first CCC, **75/75** on Junior! - Feb 20, 2026
 
 (DMOJ) Merry Christmas! 100 problems solved and top 4k in points! - Dec 25, 2025
 
