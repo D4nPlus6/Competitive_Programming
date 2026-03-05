@@ -1,0 +1,1 @@
+(MULT 3 (SUB 8 6) (ADD 2 1 4) (DIV 6 2) (SQUARE 2))
