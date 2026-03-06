@@ -1,5 +1,6 @@
 .vscode
 .idea
+.clion
 .supaSecret
 *.mp4
 *.mkv
