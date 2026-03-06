@@ -25,7 +25,7 @@ typedef vector<tl> vtl;
 typedef vector<pii> viii;
 typedef vector<bool> vb;
 typedef priority_queue<int, vi> ipq;
-typedef priority_queue<int, vi, greater<int>> ripq;
+typedef priority_queue<int, vi, greater<>> ripq;
 #define endl '\n'
 #define FILL(a, b) memset(a, b, sizeof(a))
 #define ALL(x) x.begin(), x.end()
@@ -46,7 +46,7 @@ constexpr int MOD = 1e9 + 7;
 
 /* Orz bruce */
 int main() {
-    ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+    ios::sync_with_stdio(false); cin.tie(nullptr); cout.tie(nullptr);
 
     // code here
 
