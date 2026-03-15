@@ -2,7 +2,7 @@
 
 ## Stalk me
 
-[[My Rating]](https://clist.by/coder/DanPlus6/) [[danplus6 on DMOJ]](https://dmoj.ca/user/danplus6) [[DanPlus6 on Leetcode]](https://leetcode.com/u/DanPlus6/)
+[[My CList]](https://clist.by/coder/DanPlus6/) [[danplus6 on DMOJ]](https://dmoj.ca/user/danplus6) [[DanPlus6 on Leetcode]](https://leetcode.com/u/DanPlus6/)
 
 ## Coding Timeline
 (Codeforces) Attended [first cf contest](https://codeforces.com/contest/2208/standings)! - Mar 15, 2026
