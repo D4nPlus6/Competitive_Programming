@@ -5,13 +5,15 @@
 [[My Rating]](https://clist.by/coder/DanPlus6/) [[danplus6 on DMOJ]](https://dmoj.ca/user/danplus6) [[DanPlus6 on Leetcode]](https://leetcode.com/u/DanPlus6/)
 
 ## Coding Timeline
+(Codeforces) Attended [first codeforces contest](https://codeforces.com/contest/2208/standings)! - Mar 15, 2026
+
 **1000/1000** on USACO Bronze, promoted to silver! - Feb 23, 2026
 
 Attended first CCC, **75/75** on Junior! - Feb 20, 2026
 
 (DMOJ) Merry Christmas! 100 problems solved and top 4k in points! - Dec 25, 2025
 
-(DMOJ) Attended [first contest](https://dmoj.ca/contest/aaaa1)! - Dec 22, 2025
+(DMOJ) Attended [first contest](https://dmoj.ca/contest/aaaa1/ranking)! - Dec 22, 2025
 
 (DMOJ) Solved [first 10p problem](https://dmoj.ca/problem/coci13c5p3) - Dec 13, 2025
 
