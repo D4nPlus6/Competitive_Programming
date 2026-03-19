@@ -17,6 +17,7 @@ typedef pair<ll,pl> pll;
 typedef pair<string, int> psi;
 typedef vector<int> vi;
 typedef set<int> si;
+typedef set<ll> sl;
 typedef queue<int> qi;
 typedef vector<ll> vl;
 typedef vector<vi> vvi;
