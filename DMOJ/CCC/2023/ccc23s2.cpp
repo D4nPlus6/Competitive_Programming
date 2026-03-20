@@ -7,9 +7,7 @@ using namespace std;
 
 typedef long long ll;
 typedef vector<int> vi;
-typedef vector<vi> vvi;
-
-constexpr int MM = 1e5+5;
+typedef vector<ll> vl;
 
 
 /* Orz bruce */
@@ -19,8 +17,8 @@ int main() {
     int N; cin >> N;
     vi H(N);
     for (int i = 0; i < N; i++) cin >> H[i];
-
-    ll even[MM], odd[MM];
+    
+    vl even(N+1,0), odd(N+1,0);
     cout << "0 ";
     for(int len=2; len <= N; len++){
         ll res = LONG_LONG_MAX;
@@ -37,24 +35,6 @@ int main() {
         }
         cout << res << (len != N ? " " : "\n");
     }
-    
-    // vvi dp(N,vi(N)); {
-    //     int inside;
-    //     for (int len = 2; len <= N; len++) {
-    //         for (int l = 0, r = len-1; r < N; l++, r++) {
-    //             inside = ((l+1 <= r-1) ? dp[l+1][r-1] : 0);
-    //             dp[l][r] = abs(H[l]-H[r]) + inside;
-    //         }
-    //     }
-    // }
-
-    // cout << "0 ";
-    // for (int len = 2; len <= N; len++) {
-    //     int res = INT_MAX;
-    //     for (int l = 0, r = len-1; r < N; l++, r++) res = min(dp[l][r],res);
-    //     cout << res;
-    //     cout << (len != N ? " " : "\n");
-    // }
 
     return 0;
 }
