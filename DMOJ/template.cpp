@@ -20,6 +20,7 @@ typedef set<int> si;
 typedef set<ll> sl;
 typedef queue<int> qi;
 typedef vector<ll> vl;
+typedef vector<string> vs;
 typedef vector<vi> vvi;
 typedef vector<pi> vii;
 typedef vector<ti> vti;
